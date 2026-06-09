@@ -1,0 +1,13 @@
+{
+    "name": "merouan/microservice-reservations",
+    "authors": [
+        {
+            "name": "meoruan eerachdii",
+            "email": "marouann032@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.15",
+        "slim/psr7": "^1.8"
+    }
+}
